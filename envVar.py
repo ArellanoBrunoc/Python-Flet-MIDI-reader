@@ -1,0 +1,9 @@
+altura_pantalla = 0
+altura_appbar = 40
+segundos_en_pantalla = 6
+altura_mapa_memoria = 0
+duracion_total_memoria = 0
+color_appbar = "#3C0666"
+color_inicio_notas = "#5930DB"
+color_final_notas = "#DB3096"
+color_progressbar = "#DB3096"
